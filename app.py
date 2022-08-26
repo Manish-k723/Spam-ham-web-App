@@ -11,4 +11,10 @@ op= model_nbpredict([ip])
 if st.button('PREDICT'):
   st.title(op[0])
   
+  
+  
+  
+  
+                        
+  
                     
