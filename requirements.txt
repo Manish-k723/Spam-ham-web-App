@@ -1,3 +1,4 @@
 streamlit
-joblib
+pickle
+nltk
 scikit_learn
